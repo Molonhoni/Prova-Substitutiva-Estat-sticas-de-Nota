@@ -1,4 +1,4 @@
- Prova-Substitutiva-Estat-sticas-de-Nota
+ Prova-Substitutiva Estatísticas de Nota
 
 Este repositório contém o código desenvolvido durante minha prova substitutiva.
 
